@@ -25,3 +25,23 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Firebase
+
+npm install -g firebase-tools
+
+firebase login
+
+firebase init
+
+firebase deploy
+
+## Migrar a la nueva sitaxis de Angular 17
+
+ng g @angular/core:control-flow
+
+
+## Hosting
+
+todo-app-ng-e3a88.web.app
+todo-app-ng-e3a88.firebaseapp.com
